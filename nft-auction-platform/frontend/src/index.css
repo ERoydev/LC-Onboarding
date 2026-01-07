@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/*
+In the newer version, I configure my Tailwind here (plugins, utility, themes, etc)
+*/
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --font-display: "Roboto", sans-serif;
+}
+
+.primary-button {
+  @apply hover:cursor-pointer mt-4 px-6 py-2 bg-indigo-600 text-white font-semibold rounded-md shadow hover:bg-indigo-500 transition-colors
+}

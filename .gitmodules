@@ -1,0 +1,15 @@
+[submodule "Solidity/Foundry/fundamentals/foundry-simple-storage/lib/forge-std"]
+	path = Solidity/Foundry/fundamentals/foundry-simple-storage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "Solidity/Foundry/fundamentals/foundry-simple-storage/lib/solmate"]
+	path = Solidity/Foundry/fundamentals/foundry-simple-storage/lib/solmate
+	url = https://github.com/rari-capital/solmate
+[submodule "nft-auction-platform/lib/forge-std"]
+	path = nft-auction-platform/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "nft-auction-platform/lib/openzeppelin-contracts"]
+	path = nft-auction-platform/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "nft-auction-platform/lib/chainlink-brownie-contracts"]
+	path = nft-auction-platform/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts

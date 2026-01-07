@@ -1,0 +1,4 @@
+@openzeppelin/=node_modules/@openzeppelin
+solmate/=lib/solmate/src
+
+So when i import with "@openzeppelin/ => it will be mapped to node_modules/@openzeppelin.... instead 

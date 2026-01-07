@@ -1,0 +1,11 @@
+[package]
+name = "rust-task-1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+log = "0.4"
+futures = "0.3"
+thiserror = "1.0"
+crossbeam = "0.8"
+futures-timer = "3.0"

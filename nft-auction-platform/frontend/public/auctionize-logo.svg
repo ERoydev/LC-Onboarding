@@ -1,0 +1,25 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+>
+  <!-- Outer Circle -->
+  <circle cx="50" cy="50" r="48" stroke="url(#gradient)" fill="none" />
+  
+  <!-- Hammer Icon -->
+  <path
+    d="M30 40 L70 40 L70 50 L30 50 Z"
+    fill="url(#gradient)"
+  />
+  <rect x="45" y="50" width="10" height="30" fill="url(#gradient)" />
+  
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+</svg>
